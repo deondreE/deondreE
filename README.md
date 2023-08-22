@@ -7,15 +7,13 @@
 
 - 🔭 I’m currently working on [Mumble](https://github.com/Mumble-Tech/Mumble)
 
-- 🌱 I’m currently learning **Tauri, Turbopack, Rust**
+- 🌱 I’m currently learning **SwiftUI**
 
-- 👯 I’m looking to collaborate on [Mumble](https://github.com/Mumble-Tech/Mumble)
-
-- 🤝 I’m looking for help with [Mumble](https://github.com/Mumble-Tech/Mumble)
+- 👯 I’m looking to collaborate on _Anything_
 
 - 👨‍💻 All of my projects are available at [https://github.com/deondreE](https://github.com/deondreE)
 
-- 💬 Ask me about **React, Vue, Golang**
+- 💬 Ask me about **React, C++, C**
 
 - 📫 How to reach me **deondreenglish45@gmail.com**
 

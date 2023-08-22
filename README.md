@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deondree&label=Profile%20views&color=0e75b6&style=flat" alt="deondree" /> </p>
 
-- 🔭 I’m currently working on [Mumble](https://github.com/Mumble-Tech/Mumble)
-
 - 🌱 I’m currently learning **SwiftUI**
 
 - 👯 I’m looking to collaborate on _Anything_

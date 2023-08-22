@@ -18,5 +18,6 @@
 <a href="https://twitter.com/deondre19753361" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deondre19753361" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/deondre-e-64ab41204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deondre-e-64ab41204/" height="30" width="40" /></a>
 </p>
-
+<br />
+<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deondree&show_icons=true&locale=en" alt="deondree" /></p>

@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deondree&label=Profile%20views&color=0e75b6&style=flat" alt="deondree" /> </p>
 
-<p align="left"> <a href="https://twitter.com/deondre19753361" target="blank"><img src="https://img.shields.io/twitter/follow/deondre19753361?logo=twitter&style=for-the-badge" alt="deondre19753361" /></a> </p>
-
 - 🔭 I’m currently working on [Mumble](https://github.com/Mumble-Tech/Mumble)
 
 - 🌱 I’m currently learning **SwiftUI**
